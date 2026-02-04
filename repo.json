@@ -12,6 +12,171 @@
   "headerURL": "https://i.imgur.com/rLZNU8b.png",
   "apps": [
     {
+      "name": "FL Studio Mobile",
+      "bundleIdentifier": "com.imageline.FLStudioMobileHD",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/CWYfmWj.png",
+      "tintColor": "#ccdc54",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/1/FLStudioMobile.ipa",
+          "size": 314100000,
+          "version": "4.9.6",
+          "buildVersion": null,
+          "date": "2026-02-04T14:24:00+04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "FL Studio Mobile uses Bluetooth to discover Bluetooth MIDI devices.",
+          "NSBluetoothPeripheralUsageDescription": "FL Studio Mobile uses Bluetooth to discover Bluetooth MIDI devices.",
+          "NSLocalNetworkUsageDescription": "FL Studio Mobile uses networking to communicate with Audiobus and other music apps.",
+          "NSMicrophoneUsageDescription": "FL Studio Mobile uses the microphone for recording vocal & instrument tracks."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "DELTARUNE",
+      "bundleIdentifier": "com.ates.DELTARUNE",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/ZhHqZVz.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/1/Deltarune_v727.ipa",
+          "size": 495800000,
+          "version": "1.1.727",
+          "buildVersion": null,
+          "date": "2026-02-04T14:24:00+04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSMainNibFile": "MainWindow-iPhone",
+          "NSMainNibFile~ipad": "MainWindow",
+          "NSMainNibFile~iphone": "MainWindow-iPhone",
+          "NSMicrophoneUsageDescription": "This application requires microphone access for recording purposes."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "True Skate",
+      "bundleIdentifier": "com.trueaxis.skate",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/Aceg50g.png",
+      "tintColor": "#7a8a74",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/1/True_Skate.ipa",
+          "size": 121500000,
+          "version": "1.5.102",
+          "buildVersion": null,
+          "date": "2026-02-04T14:23:00+04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothPeripheralUsageDescription": "Advertisement would like to use bluetooth.",
+          "NSCalendarsUsageDescription": "Advertisement would like to create a calendar event.",
+          "NSCameraUsageDescription": "The camera is used by Everyplay. Everyplay records gameplay videos, and it has the option to overlay a video of the user playing the game by using the camera.",
+          "NSMainNibFile": "MainWindow",
+          "NSMainNibFile~ipad": "MainWindow-iPad",
+          "NSPhotoLibraryAddUsageDescription": "Access to the photo library is required to save replays to your device.",
+          "NSPhotoLibraryUsageDescription": "Photo Library access is used to allow the user to select a photo to be applied to there skateboard"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "UTM",
+      "bundleIdentifier": "com.utmapp.UTM",
+      "marketplaceID": "",
+      "developerName": "Size",
+      "subtitle": "Виртуальная машина",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/eNcCgL1.png",
+      "tintColor": "#3c7cec",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/utmapp/UTM/releases/download/v4.7.5/UTM.ipa",
+          "size": 130100000,
+          "version": "4.7.5",
+          "buildVersion": null,
+          "date": "2026-02-04T14:17:00+04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAccentColorName": "AccentColor",
+          "NSLocalNetworkUsageDescription": "The virtual machine may access the local network. UTM may also use the network to communicate with local servers.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
+          "NSLocationAlwaysUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
+          "NSLocationWhenInUseUsageDescription": "UTM requests location data periodically to ensure the system keeps the background process active. Location data will never leave the device.",
+          "NSMicrophoneUsageDescription": "Permission is required for any virtual machine to record from the microphone."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Flappy Bird",
+      "bundleIdentifier": "org.brandonplank.flappybird",
+      "marketplaceID": "",
+      "developerName": "Size",
+      "subtitle": "Удалённая игра",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/pymdDrQ.png",
+      "tintColor": "#7ce49c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/1/Flappy_Bird.ipa",
+          "size": 2100000,
+          "version": "4.3",
+          "buildVersion": null,
+          "date": "2026-02-04T14:23:00+04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
       "name": "AllTrails",
       "bundleIdentifier": "com.alltrails.AllTrails",
       "marketplaceID": "",
@@ -582,7 +747,7 @@
       "bundleIdentifier": "com.mtmapping.onxoffroad",
       "marketplaceID": "",
       "developerName": "Size",
-      "subtitle": "Старая версия но открыты все функции",
+      "subtitle": "Старая версия",
       "localizedDescription": "",
       "iconURL": "https://i.imgur.com/COcKoci.png",
       "tintColor": "#7f7f7f",
