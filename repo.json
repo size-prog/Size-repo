@@ -1,0 +1,359 @@
+{
+  "name": "Size repo",
+  "subtitle": "",
+  "description": "",
+  "iconURL": "https://i.imgur.com/Q8WqLnO.png",
+  "website": "",
+  "patreonURL": "",
+  "tintColor": "#0784FC",
+  "featuredApps": [
+    "com.duolingo.DuolingoMobile"
+  ],
+  "headerURL": "https://i.imgur.com/rLZNU8b.png",
+  "apps": [
+    {
+      "name": "Terraria",
+      "bundleIdentifier": "com.505games.terraria",
+      "marketplaceID": "",
+      "developerName": "Size",
+      "subtitle": "Террария",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/l1AOaqe.png",
+      "tintColor": "#7ca0cc",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "http://192.168.0.14:8080/ipas/Terraria.ipa",
+          "size": 190147272,
+          "version": "4.5.0",
+          "buildVersion": "101483",
+          "date": "2026-02-02T02:27:56.952755",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocalNetworkUsageDescription": "Terraria uses the local network to announce, discover and connect to multiplayer sessions."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Spotify",
+      "bundleIdentifier": "com.spotify.client",
+      "marketplaceID": "",
+      "developerName": "Size",
+      "subtitle": "Бесплатная подписка",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/WJ4shlD.png",
+      "tintColor": "#1cd464",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "http://192.168.0.14:8080/ipas/Spotify.ipa",
+          "size": 96189010,
+          "version": "9.1.12",
+          "buildVersion": "911200224",
+          "date": "2026-02-02T02:27:56.956390",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSCameraUsageDescription": "This lets you scan Spotify Codes.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized ads or content to you.",
+          "NSHealthUpdateUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSMotionUsageDescription": "We will use this to understand which audio motivates you most.",
+          "NSBluetoothPeripheralUsageDescription": "This lets you unlock new ways of interacting with other devices compatible with Spotify via Bluetooth.",
+          "NSPhotoLibraryAddUsageDescription": "This lets you save images to your Photo Library.",
+          "NSLocalNetworkUsageDescription": "This lets you listen on different devices. Spotify will also get access to local audio files.",
+          "NSHealthShareUsageDescription": "Spotify will use HealthKit data to provide personalised audio recommendations for your workouts.",
+          "NSAppleMusicUsageDescription": "This will let you play your imported music on Spotify.",
+          "NSCalendarsUsageDescription": "This lets Spotify view and add events to your calendar.",
+          "NSMicrophoneUsageDescription": "This lets you control Spotify using your voice.",
+          "NSCalendarsWriteOnlyAccessUsageDescription": "This lets Spotify add events to your calendar.",
+          "NSFaceIDUsageDescription": "This lets you set access restrictions using Face ID.",
+          "NSContactsUsageDescription": "This lets Spotify access calendars you may have shared with your contacts.",
+          "NSPhotoLibraryUsageDescription": "This lets you select images from your Photo Library."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Flo",
+      "bundleIdentifier": "org.iggymedia.periodtracker",
+      "marketplaceID": "",
+      "developerName": "Size",
+      "subtitle": "Бесплатная подписка",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/8kCPY3V.png",
+      "tintColor": "#ec6484",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "http://192.168.0.14:8080/ipas/Flo.ipa",
+          "size": 127275741,
+          "version": "9.97.0",
+          "buildVersion": "9.97.0.104",
+          "date": "2026-02-02T02:27:56.960707",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://flo.health",
+          "NSCameraUsageDescription": "Camera Usage",
+          "NSFaceIDUsageDescription": "Face ID Usage",
+          "NSHealthShareUsageDescription": "Health Share",
+          "NSHealthUpdateUsageDescription": "Health Update",
+          "NSMicrophoneUsageDescription": "Microphone Usage",
+          "NSMotionUsageDescription": "Motion Usage",
+          "NSPhotoLibraryAddUsageDescription": "Photo Usage",
+          "NSPhotoLibraryUsageDescription": "Photo Usage",
+          "NSUserTrackingUsageDescription": "Tracking Usage"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "DuolingoMobile",
+      "bundleIdentifier": "com.duolingo.DuolingoMobile",
+      "marketplaceID": "",
+      "developerName": "Size",
+      "subtitle": "Бесплатная подписка",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/1eMvI4r.png",
+      "tintColor": "#7ccc04",
+      "category": "other",
+      "screenshots": [
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/8e/98/6a/8e986a5d-720b-88d4-e003-3390d7b29baa/5b198e44-1bd6-466c-810e-f97cf3ed859b_ru_iphone6.5_screen_1.png/230x498bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource211/v4/3d/19/cc/3d19ccf5-5127-afb8-6abe-fcbdb2ed2fc3/8155ca25-b566-4845-957b-269bbb16ba3f_ru_iphone6.5_screen_2.png/230x498bb.webp",
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource221/v4/7f/cd/78/7fcd7858-c2f1-58b3-8884-a70d5b9f037d/b9aba1f9-b810-4609-b121-cd9417cd27d7_ru_iphone6.5_screen_3.png/230x498bb.webp"
+      ],
+      "versions": [
+        {
+          "downloadURL": "http://192.168.0.14:8080/ipas/Duolingo.ipa",
+          "size": 214617111,
+          "version": "7.107.2",
+          "buildVersion": "7.107.2.1",
+          "date": "2026-02-02T02:27:56.983641",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "Bluetooth allows you to connect MIDI devices.",
+          "NSCameraUsageDescription": "Take a photo to use for your Duolingo profile.",
+          "NSContactsUsageDescription": "Your contacts will be securely uploaded to Duolingo to help you find friends.",
+          "NSLocationWhenInUseUsageDescription": "Duolingo uses your current location to find nearby events.",
+          "NSMicrophoneUsageDescription": "Speaking is essential to language learning.",
+          "NSMotionUsageDescription": "Refill your energy by getting your steps in.",
+          "NSPhotoLibraryAddUsageDescription": "Duolingo saves visual app content to your Photos library when you choose to download it.",
+          "NSPhotoLibraryUsageDescription": "Find an existing photo to use for your Duolingo profile.",
+          "NSSpeechRecognitionUsageDescription": "Speaking is essential to language learning.",
+          "NSUserTrackingUsageDescription": "This will be used to show ads relevant to you."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Mimo",
+      "bundleIdentifier": "com.getmimo.mimo",
+      "marketplaceID": "",
+      "developerName": "Size",
+      "subtitle": "",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/BQ8BYCA.png",
+      "tintColor": "#9c84c4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "http://192.168.0.14:8080/ipas/Mimo.ipa",
+          "size": 78035253,
+          "version": "11.1.0",
+          "buildVersion": "45460",
+          "date": "2026-02-02T02:27:56.989859",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSCameraUsageDescription": "We need camera access when you take photos for your user avatar or add images to a Mimo AI prompt.",
+          "NSMicrophoneUsageDescription": "We need microphone access to capture your voice temporarily for speech recognition.",
+          "NSPhotoLibraryUsageDescription": "Picking images for user avatar",
+          "NSSpeechRecognitionUsageDescription": "We need access to speech recognition to convert your voice input into text when prompting Mimo AI.",
+          "NSUserTrackingUsageDescription": "We do not use this data for any other purpose except understanding how our users discover Mimo and improving your Mimo experience."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "komoot",
+      "bundleIdentifier": "de.komoot.berlinbikeapp",
+      "marketplaceID": "",
+      "developerName": "Size",
+      "subtitle": "Открыты все функции",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/JWRgj2P.png",
+      "tintColor": "#6c842c",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "http://192.168.0.14:8080/ipas/Komoot.ipa",
+          "size": 113089558,
+          "version": "2026.5.0",
+          "buildVersion": "260500008",
+          "date": "2026-02-02T02:27:57.001812",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "This allows you to display directions on connected devices.",
+          "NSBluetoothPeripheralUsageDescription": "This allows you to display directions on connected devices.",
+          "NSCameraUsageDescription": "Allow komoot access to your camera and photos to add photos to activities or to select a new profile picture.",
+          "NSContactsUsageDescription": "By granting access to your contacts, you can see who you already know on komoot, follow them, and invite them to join you on activities.",
+          "NSHealthShareUsageDescription": "If you like to use komoot in combination with Health, the app transmits time and distance data of your activities to update your Health data.",
+          "NSHealthUpdateUsageDescription": "If you like to use komoot in combination with Health, the app transmits time and distance data of your activities to update your Health data.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "In order to plan routes, provide safe navigation, and record activities, komoot needs access to your device's GPS.",
+          "NSLocationWhenInUseUsageDescription": "In order to plan routes, provide safe navigation, and record activities, komoot needs access to your device's GPS.",
+          "NSMicrophoneUsageDescription": "komoot needs access to your microphone",
+          "NSPhotoLibraryAddUsageDescription": "Allow komoot to access Photos to save photos taken on komoot to Photos.",
+          "NSPhotoLibraryUsageDescription": "Allow komoot to access Photos to add pictures taken outside of komoot to activities and Highlights and to add photos taken on komoot to Photos.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver a personalized experience."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "peakvisor",
+      "bundleIdentifier": "ru.routes.peakvisor",
+      "marketplaceID": "",
+      "developerName": "Size",
+      "subtitle": "Бесплатный премиум",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/R7rjrGP.png",
+      "tintColor": "#147fea",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "http://192.168.0.14:8080/ipas/PeakVisor.ipa",
+          "size": 127322493,
+          "version": "5.79",
+          "buildVersion": "5.79.0",
+          "date": "2026-02-02T02:27:57.004445",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://peakvisor.com",
+          "NSLocationAlwaysUsageDescription": "Location Services access is required to record your track",
+          "NSCameraUsageDescription": "Camera access required to use augmented reality",
+          "NSHealthUpdateUsageDescription": "Workout data is used to let you explore your outdoor activities in 3D and claim your check-ins",
+          "NSPhotoLibraryAddUsageDescription": "Library access required to save photos",
+          "NSHealthShareUsageDescription": "Workout data is used to let you explore your outdoor activities in 3D and claim your check-ins",
+          "NSLocationWhenInUseUsageDescription": "Location Services access is required to name nearby mountains using augmented reality",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Location Services access is required to record your track and show nearby mountains",
+          "NSPhotoLibraryUsageDescription": "Library access required to save and import photos"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Songsterr Guitar Tabs",
+      "bundleIdentifier": "com.dmslabs",
+      "marketplaceID": "",
+      "developerName": "Size",
+      "subtitle": "Разблокированны все функции + премиум",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/T8GTnpe.png",
+      "tintColor": "#07bdfc",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "http://192.168.0.14:8080/ipas/Songsterr.ipa",
+          "size": 16818994,
+          "version": "7.5.0",
+          "buildVersion": "8552",
+          "date": "2026-02-02T02:27:57.006800",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "We need this permission to stop playback from other apps when you tap Play in Songsterr.",
+          "NSCameraUsageDescription": "Camera may be used to film the videos for later uploading",
+          "NSMainNibFile": "SRMainWindow",
+          "NSMainNibFile~ipad": "SRPadMainWindow",
+          "NSMicrophoneUsageDescription": "Microphone is needed for tuner feature",
+          "NSPhotoLibraryUsageDescription": "Photo library is not used"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Offroad",
+      "bundleIdentifier": "com.mtmapping.onxoffroad",
+      "marketplaceID": "",
+      "developerName": "Size",
+      "subtitle": "Старая версия но открыты все функции",
+      "localizedDescription": "",
+      "iconURL": "https://i.imgur.com/COcKoci.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "http://192.168.0.14:8080/ipas/onxoffroad.ipa",
+          "size": 314324932,
+          "version": "25.31.1",
+          "buildVersion": "2886",
+          "date": "2026-02-02T02:27:57.014304",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSLocationAlwaysUsageDescription": "Your location is used to show your GPS location on the map, localized weather conditions and enable you to use tracking and mark your location.",
+          "NSCameraUsageDescription": "Easily take photos for your profile, waypoints and more.",
+          "NSUserTrackingUsageDescription": "Your data will be used to deliver personalized offers and educational feature tips to you.",
+          "NSPhotoLibraryAddUsageDescription": "This allows you to save new photos to your device.",
+          "NSLocalNetworkUsageDescription": "You’ll need to allow onX Offroad to find nearby devices and share content with others while offline.",
+          "NSLocationWhenInUseUsageDescription": "Your location is used to show your GPS location on the map, localized weather conditions and enable you to use tracking and mark your location.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "Your location is used to show your GPS location on the map, localized weather conditions and enable you to use tracking and mark your location.",
+          "NSPhotoLibraryUsageDescription": "This allows you to add photos from your photo library and save new photos to your device."
+        }
+      },
+      "patreon": {}
+    }
+  ],
+  "news": [],
+  "sourceURL": "http://192.168.0.14:8080/repo.json"
+}
