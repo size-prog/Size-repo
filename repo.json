@@ -12,23 +12,23 @@
   "headerURL": "https://i.imgur.com/rLZNU8b.png",
   "apps": [
     {
-      "name": "Blockblast",
-      "bundleIdentifier": "com.blockpuzzle.us.ios",
+      "name": "AllTrails",
+      "bundleIdentifier": "com.alltrails.AllTrails",
       "marketplaceID": "",
       "developerName": "Size",
       "subtitle": "Без рекламы",
       "localizedDescription": "",
-      "iconURL": "https://i.imgur.com/vrXnBMv.png",
-      "tintColor": "#dc3425",
+      "iconURL": "https://i.imgur.com/A5WsXML.png",
+      "tintColor": "#6a946a",
       "category": "other",
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/ipas/BlockBlast.ipa",
-          "size": 130000000,
-          "version": "6.7.9",
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/ipas/AllTrails.ipa",
+          "size": 117800000,
+          "version": "26.1.40",
           "buildVersion": null,
-          "date": "2026-02-04T11:42:00+04:00",
+          "date": "2026-02-04T12:59:00+04:00",
           "localizedDescription": null,
           "minOSVersion": null
         }
@@ -37,8 +37,17 @@
         "entitlements": [],
         "privacy": {
           "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
-          "NSPhotoLibraryUsageDescription": "Used to select images from your photo library or save images to your device for app functionality.",
-          "NSUserTrackingUsageDescription": "This identifier will be used to serve personalized ads to you."
+          "NSBluetoothPeripheralUsageDescription": "AllTrails needs access to Bluetooth to communicate with the AllTrails watch app",
+          "NSCalendarsUsageDescription": "AllTrails ads may offer to create reminders",
+          "NSCameraUsageDescription": "This allows you to take profile photos, as well as identifying plants along the trail",
+          "NSContactsUsageDescription": "AllTrails uploads your contacts to our servers to help you find friends in Community and select Live Share safety contacts.",
+          "NSHealthShareUsageDescription": "AllTrails will write summaries of your recordings to the Health app.",
+          "NSHealthUpdateUsageDescription": "AllTrails will write summaries of your recordings to the Health app.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "AllTrails uses your location to find trails near you.",
+          "NSLocationAlwaysUsageDescription": "AllTrails uses your location to find trails near you.",
+          "NSLocationWhenInUseUsageDescription": "AllTrails uses your location to find trails near you.",
+          "NSPhotoLibraryAddUsageDescription": "AllTrails needs access to your photo library so you can save photos",
+          "NSPhotoLibraryUsageDescription": "AllTrails needs access to your photo library so you can upload photos"
         }
       },
       "patreon": {}
