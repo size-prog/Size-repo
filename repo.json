@@ -12,6 +12,258 @@
   "headerURL": "https://i.imgur.com/rLZNU8b.png",
   "apps": [
     {
+      "name": "Blockblast",
+      "bundleIdentifier": "com.blockpuzzle.us.ios",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/vrXnBMv.png",
+      "tintColor": "#dc3425",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/ipas/BlockBlast.ipa",
+          "size": 130000000,
+          "version": "6.7.9",
+          "buildVersion": null,
+          "date": "2026-02-04T11:42:00+04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSPhotoLibraryUsageDescription": "Used to select images from your photo library or save images to your device for app functionality.",
+          "NSUserTrackingUsageDescription": "This identifier will be used to serve personalized ads to you."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "GuitaraTuner",
+      "bundleIdentifier": "com.mwm.guitartuner",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/xgfTQyx.png",
+      "tintColor": "#14ec04",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/ipas/TunerPro.ipa",
+          "size": 274900000,
+          "version": "4.00.00",
+          "buildVersion": null,
+          "date": "2026-02-04T11:41:00+04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSAppleMusicUsageDescription": "« Guitar Tuner » wishes to access your Apple Music Library to list your songs, and select the one you want to discover with our AI chords engine.",
+          "NSMicrophoneUsageDescription": "Tuner Pro needs to access your microphone to tune your instruments.",
+          "NSUserTrackingUsageDescription": "This allows us to personalise ads using your data so you see fewer irrelevant ads."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Locket",
+      "bundleIdentifier": "com.locket.Locket",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/IP71YjK.png",
+      "tintColor": "#fcb605",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/ipas/Locket_.ipa",
+          "size": 337800000,
+          "version": "2.31.1",
+          "buildVersion": null,
+          "date": "2026-02-04T11:41:00+04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSAppleMusicUsageDescription": "Locket uses Apple Music to let you share your music with your friends.",
+          "NSCameraUsageDescription": "Locket uses your camera to let you take pictures to share with your friends.",
+          "NSContactsUsageDescription": "Find friends from your contacts on Locket. Your contacts may be uploaded to a server to help you add your friends.",
+          "NSLocationWhenInUseUsageDescription": "Locket uses your location to let you share your location with your friends.",
+          "NSMicrophoneUsageDescription": "Locket uses your microphone to let you record video to share with your friends.",
+          "NSMotionUsageDescription": "Locket uses your location to let you share your activity with your friends.",
+          "NSPhotoLibraryAddUsageDescription": "Locket uses your photo library to let you save your pictures outside of Locket.",
+          "NSPhotoLibraryUsageDescription": "So you can pick your photos for this week's Rollcall!",
+          "NSUserTrackingUsageDescription": "This allows Locket to give you a better ad experience."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "YouTube Music",
+      "bundleIdentifier": "com.google.ios.youtubemusic",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/B9XofxW.png",
+      "tintColor": "#fc0434",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/ipas/YouTubeMusic.ipa",
+          "size": 98600000,
+          "version": "9.05.2",
+          "buildVersion": null,
+          "date": "2026-02-04T11:41:00+04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSBluetoothAlwaysUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+          "NSBluetoothPeripheralUsageDescription": "YouTube Music uses Bluetooth to locate and connect to Chromecast and other devices.",
+          "NSCameraUsageDescription": "To take a profile picture, allow YouTube Music to access your camera.",
+          "NSContactsUsageDescription": "This will allow you to invite your family into your membership plan.",
+          "NSLocalNetworkUsageDescription": "Access to your network allows YouTube Music to discover and connect to devices such as your TV.",
+          "NSMicrophoneUsageDescription": "This lets you include audio with your videos.",
+          "NSPhotoLibraryAddUsageDescription": "To save images, allow YouTube Music to access your photo library.",
+          "NSPhotoLibraryUsageDescription": "To choose a profile picture, allow YouTube Music to access your photos."
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Premiere",
+      "bundleIdentifier": "com.adobe.premiere.ios",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/NcTq1sg.png",
+      "tintColor": "#0a0af4",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/ipas/Premiere.ipa",
+          "size": 68400000,
+          "version": "26.5.0",
+          "buildVersion": null,
+          "date": "2026-02-04T11:40:00+04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        },
+        {
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/ipas/AllTrails.ipa",
+          "size": 117800000,
+          "version": "26.1.40",
+          "buildVersion": null,
+          "date": "2026-02-04T11:39:00+04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAppleMusicUsageDescription": "Access to Media Library is required for adding soundtracks to Premiere from there.",
+          "NSMicrophoneUsageDescription": "Microphone access is required to record audio to use for a voice over track.",
+          "NSPhotoLibraryUsageDescription": "This allows you to save your exported project to your camera roll so you can access it in your photos app. Full access is needed to select media for templates.",
+          "NSSpeechRecognitionUsageDescription": "Transcribe audio in order to add captions or enhance editing"
+        }
+      },
+      "patreon": {}
+    },
+    {
+      "name": "Runestone Editor",
+      "bundleIdentifier": "dk.simonbs.RunestoneEditor",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/lXyftTp.png",
+      "tintColor": "#4f5caf",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/ipas/Runestone.ipa",
+          "size": 27000000,
+          "version": "1.6.1",
+          "buildVersion": null,
+          "date": "2026-02-04T11:39:00+04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      },
+      "patreon": {}
+    },
+    {
+      "name": "PicsArt",
+      "bundleIdentifier": "com.picsart.studio",
+      "marketplaceID": "",
+      "developerName": "Example Developer",
+      "subtitle": "An awesome app.",
+      "localizedDescription": "This is an awesome app only available on AltStore.",
+      "iconURL": "https://i.imgur.com/bEla5Ex.png",
+      "tintColor": "#7f7f7f",
+      "category": "other",
+      "screenshots": [],
+      "versions": [
+        {
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/ipas/PicsArt.ipa",
+          "size": 109700000,
+          "version": "29.2.4",
+          "buildVersion": null,
+          "date": "2026-02-04T11:29:00+04:00",
+          "localizedDescription": null,
+          "minOSVersion": null
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {
+          "NSAdvertisingAttributionReportEndpoint": "https://appsflyer-skadnetwork.com/",
+          "NSAppleMusicUsageDescription": "NSAppleMusicUsageDescription",
+          "NSBluetoothAlwaysUsageDescription": "You can select to no",
+          "NSBluetoothPeripheralUsageDescription": "We would like access to bluetooth for peripheral accessories.",
+          "NSCalendarsUsageDescription": "We would like access to the calendar so we can serve you more relevant content.",
+          "NSCameraUsageDescription": "NSCameraUsageDescription",
+          "NSContactsUsageDescription": "Your contacts will be uploaded to Picsart’s server to help you and others find friends!",
+          "NSMicrophoneUsageDescription": "NSMicrophoneUsageDescription",
+          "NSPhotoLibraryAddUsageDescription": "NSPhotoLibraryUsageDescription",
+          "NSPhotoLibraryUsageDescription": "NSPhotoLibraryUsageDescription",
+          "NSSpeechRecognitionUsageDescription": "NSSpeechRecognitionUsageDescription",
+          "NSUserTrackingUsageDescription": "NSUserTrackingUsageDescription"
+        }
+      },
+      "patreon": {}
+    },
+    {
       "name": "Terraria",
       "bundleIdentifier": "com.505games.terraria",
       "marketplaceID": "",
@@ -24,12 +276,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "http://192.168.0.14:8080/ipas/Terraria.ipa",
-          "size": 190147272,
           "version": "4.5.0",
-          "buildVersion": "101483",
-          "date": "2026-02-02T02:27:56.952755",
+          "date": "2026-02-01T22:27:00+04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/ipa/Terraria.ipa",
+          "size": 190100000,
+          "buildVersion": "101483",
           "minOSVersion": null
         }
       ],
@@ -54,12 +306,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "http://192.168.0.14:8080/ipas/Spotify.ipa",
-          "size": 96189010,
           "version": "9.1.12",
-          "buildVersion": "911200224",
-          "date": "2026-02-02T02:27:56.956390",
+          "date": "2026-02-01T22:27:00+04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/ipa/Spotify.ipa",
+          "size": 96200000,
+          "buildVersion": "911200224",
           "minOSVersion": null
         }
       ],
@@ -99,12 +351,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "http://192.168.0.14:8080/ipas/Flo.ipa",
-          "size": 127275741,
           "version": "9.97.0",
-          "buildVersion": "9.97.0.104",
-          "date": "2026-02-02T02:27:56.960707",
+          "date": "2026-02-01T22:27:00+04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/ipa/Flo.ipa",
+          "size": 127300000,
+          "buildVersion": "9.97.0.104",
           "minOSVersion": null
         }
       ],
@@ -126,7 +378,7 @@
       "patreon": {}
     },
     {
-      "name": "DuolingoMobile",
+      "name": "Duolingo",
       "bundleIdentifier": "com.duolingo.DuolingoMobile",
       "marketplaceID": "",
       "developerName": "Size",
@@ -142,12 +394,12 @@
       ],
       "versions": [
         {
-          "downloadURL": "http://192.168.0.14:8080/ipas/Duolingo.ipa",
-          "size": 214617111,
           "version": "7.107.2",
-          "buildVersion": "7.107.2.1",
-          "date": "2026-02-02T02:27:56.983641",
+          "date": "2026-02-01T22:27:00+04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/ipa/Duolingo.ipa",
+          "size": 214600000,
+          "buildVersion": "7.107.2.1",
           "minOSVersion": null
         }
       ],
@@ -181,12 +433,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "http://192.168.0.14:8080/ipas/Mimo.ipa",
-          "size": 78035253,
           "version": "11.1.0",
-          "buildVersion": "45460",
-          "date": "2026-02-02T02:27:56.989859",
+          "date": "2026-02-01T22:27:00+04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/ipa/Mimo.ipa",
+          "size": 78000000,
+          "buildVersion": "45460",
           "minOSVersion": null
         }
       ],
@@ -215,12 +467,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "http://192.168.0.14:8080/ipas/Komoot.ipa",
-          "size": 113089558,
           "version": "2026.5.0",
-          "buildVersion": "260500008",
-          "date": "2026-02-02T02:27:57.001812",
+          "date": "2026-02-01T22:27:00+04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/ipa/Komoot.ipa",
+          "size": 113100000,
+          "buildVersion": "260500008",
           "minOSVersion": null
         }
       ],
@@ -256,12 +508,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "http://192.168.0.14:8080/ipas/PeakVisor.ipa",
-          "size": 127322493,
           "version": "5.79",
-          "buildVersion": "5.79.0",
-          "date": "2026-02-02T02:27:57.004445",
+          "date": "2026-02-01T22:27:00+04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/ipa/PeakVisor.ipa",
+          "size": 127300000,
+          "buildVersion": "5.79.0",
           "minOSVersion": null
         }
       ],
@@ -294,12 +546,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "http://192.168.0.14:8080/ipas/Songsterr.ipa",
-          "size": 16818994,
           "version": "7.5.0",
-          "buildVersion": "8552",
-          "date": "2026-02-02T02:27:57.006800",
+          "date": "2026-02-01T22:27:00+04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/ipa/Songsterr.ipa",
+          "size": 16800000,
+          "buildVersion": "8552",
           "minOSVersion": null
         }
       ],
@@ -329,12 +581,12 @@
       "screenshots": [],
       "versions": [
         {
-          "downloadURL": "http://192.168.0.14:8080/ipas/onxoffroad.ipa",
-          "size": 314324932,
           "version": "25.31.1",
-          "buildVersion": "2886",
-          "date": "2026-02-02T02:27:57.014304",
+          "date": "2026-02-01T22:27:00+04:00",
           "localizedDescription": null,
+          "downloadURL": "https://github.com/size-prog/Size-repo/releases/download/ipa/onxoffroad.ipa",
+          "size": 314300000,
+          "buildVersion": "2886",
           "minOSVersion": null
         }
       ],
@@ -354,6 +606,5 @@
       "patreon": {}
     }
   ],
-  "news": [],
-  "sourceURL": "http://192.168.0.14:8080/repo.json"
+  "news": []
 }
